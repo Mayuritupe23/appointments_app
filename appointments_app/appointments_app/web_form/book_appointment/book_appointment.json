@@ -21,7 +21,7 @@
  "list_columns": [],
  "login_required": 0,
  "max_attachment_size": 0,
- "modified": "2024-10-22 14:54:13.527869",
+ "modified": "2024-10-22 19:50:16.468916",
  "modified_by": "Administrator",
  "module": "Appointments App",
  "name": "book-appointment",
@@ -33,6 +33,7 @@
  "show_sidebar": 0,
  "success_message": "TODO:Display the queue number assigned to them",
  "success_title": "Appointment Booked",
+ "success_url": "/success-with-q-number?queue_number=2",
  "title": "Book Appointment",
  "web_form_fields": [
   {
